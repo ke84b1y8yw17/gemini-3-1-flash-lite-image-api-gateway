@@ -104,6 +104,16 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-61a98e) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 9 more language builds: 中文 `gemini-3-1-flash-lite-image-api-cn` · Deutsch [gemini-3-1-flash-lite-image-api-de](https://github.com/fa4q25y/gemini-3-1-flash-lite-image-api-de) · Español [gemini-3-1-flash-lite-image-api-es](https://github.com/cdin2bv04dg/gemini-3-1-flash-lite-image-api-es) · Français [gemini-3-1-flash-lite-image-api-fr](https://github.com/oaaw3i8/gemini-3-1-flash-lite-image-api-fr) · Bahasa [gemini-3-1-flash-lite-image-api-id](https://github.com/vza9q6bfv5zy/gemini-3-1-flash-lite-image-api-id) · 日本語 `gemini-3-1-flash-lite-image-api-ja` · 한국어 [gemini-3-1-flash-lite-image-api-ko](https://github.com/yqnwlelqzmfd0c/gemini-3-1-flash-lite-image-api-ko) · Português [gemini-3-1-flash-lite-image-api-pt](https://github.com/w-flf0/gemini-3-1-flash-lite-image-api-pt) · Русский `gemini-3-1-flash-lite-image-api-ru`
+- **More models in this language** — [midjourney-api-gateway](https://github.com/apimartxc3iskw/midjourney-api-gateway) · [gemini-2-5-flash-image-preview-api-gateway](https://github.com/mcqdlebg/gemini-2-5-flash-image-preview-api-gateway) · [nano-banana-api-gateway](https://github.com/gix2kust/nano-banana-api-gateway) · [gemini-3-1-flash-image-preview-api-gateway](https://github.com/nn6jtthao8/gemini-3-1-flash-image-preview-api-gateway) · [nano-banana-2-api-gateway](https://github.com/u9mdw3pt594q2r/nano-banana-2-api-gateway) · [gemini-3-pro-image-preview-api-gateway](https://github.com/uqu9q/gemini-3-pro-image-preview-api-gateway)
+- **Topic hubs** — every build of this model, all languages: [gemini-3-1-flash-lite-image](https://github.com/topics/gemini-3-1-flash-lite-image) · [gemini-3-1-flash-lite-image-api](https://github.com/topics/gemini-3-1-flash-lite-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
